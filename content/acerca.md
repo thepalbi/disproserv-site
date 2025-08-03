@@ -6,12 +6,27 @@ aliases = ["acerca-de", "sobre-disproserv"]
 author = "Disproserv"
 +++
 
-Disproserv es una empresa de ingeniería con una amplia experiencia en el diseño, desarrollo y ejecución de proyectos industriales. Desde 1992, hemos trabajado con empresas de renombre en sectores como la energía, la minería, la automoción, la alimentación y más. 
+Disproserv es una empresa de ingeniería con personal altamente calificado, con un elevado nivel técnico desarrollado en empresas de primer nivel. Nuestra especialización está dirigida hacia los rubros electromecánico y eléctrico.
 
-Nuestros servicios abarcan:
+Desde 1992, hemos trabajado con empresas de renombre en sectores como la energía, la minería, la automoción, la alimentación y más. 
 
-- **Diseño**: Soluciones personalizadas adaptadas a las necesidades de cada cliente.
-- **Proyecto**: Gestión integral desde la planificación hasta la ejecución.
-- **Ingeniería**: Consultoría y servicios especializados para diversas industrias.
+**Tipos de Proyectos:**
+- Períodos de Oferta y Licitación.
+- Relevamiento en obra si fuese necesario.
+- Desarrollo de la ingeniería correspondiente para su ejecución.
+- Supervisión de fabricación en todos sus niveles.
+
+**División Diseños y Proyectos:**
+- Fabricación de tableros eléctricos de BT hasta 1000 V y celdas de MT hasta 36 KV.
+- Remodelación y retrofit de tableros, celdas e interruptores.
+- Fabricación de conductos de barras de potencia en BT y MT.
+- Construcciones electromecánicas.
+- Construcciones metálicas.
+
+**Servicios Adicionales:**
+- Remodelación.
+- Actualización.
+- Retrofit.
+- Revamping.
 
 Nuestra misión es ofrecer soluciones innovadoras y eficientes que impulsen el desarrollo del mercado industrial.

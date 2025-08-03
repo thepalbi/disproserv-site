@@ -1,11 +1,18 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
+    "title": "Diseño de soluciones industriales.",
+    "image": "img/slide/IMG_20170509_084835952.jpeg"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
-    "color": "text-black"
+    "title": "Gestión integral de proyectos.",
+    "image": "img/slide/Imagen 115.jpeg"
+  },
+  {
+    "title": "Consultoría en ingeniería.",
+    "image": "img/slide/Imagen 116.jpeg"
+  },
+  {
+    "title": "Innovación y eficiencia.",
+    "image": "img/slide/PAPEL MISIONERO-18-09-05 167.jpeg"
   }
 ]
