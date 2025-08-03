@@ -1,5 +1,6 @@
 module.exports = {
   content: ["./**/*.html", "./**/*.md", "./config.toml"],
+  safelist: ["node_modules"],
   theme: {
     extend: {
       colors: {
