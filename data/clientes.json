@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Dow",
+    "description": "Proveedor líder en soluciones químicas.",
+    "image": "img/clientes/dow-logo.png"
+  },
+  {
+    "title": "Schneider",
+    "description": "Especialistas en gestión de energía y automatización.",
+    "image": "img/clientes/schneider-logo.png"
+  },
+  {
+    "title": "YPF",
+    "description": "Empresa líder en energía y combustibles en Argentina.",
+    "image": "img/clientes/ypf-logo.png"
+  },
+  {
+    "title": "Total Energies",
+    "description": "Compañía global de energía comprometida con la transición energética.",
+    "image": "img/clientes/totalenergies-logo.webp"
+  },
+  {
+    "title": "Aluar",
+    "description": "Principal productor de aluminio en Argentina.",
+    "image": "img/clientes/aluar-logo.png"
+  }
+]
