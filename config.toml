@@ -23,7 +23,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
+    main = "img/logo/logo_disproserv.svg"
     alt = "Disproserv Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -48,9 +48,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "productos"
-    name = "Productos"
-    url = "/productos/"
+    identifier = "servicios"
+    name = "Servicios"
+    url = "/servicios/"
     weight = 1
 
   [[menu.main]]
